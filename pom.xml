@@ -3,7 +3,7 @@
   <groupId>com.entreprise.benjamin</groupId>
   <artifactId>MyWebApp</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>MyWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -96,7 +96,7 @@
 <url>https://github.com/benjamin2718/app</url>
 <connection>scm:git:ssh://git@github.com/benjamin2718/app.git</connection>
 <developerConnection>scm:git:ssh://git@github.com/benjamin2718/app.git</developerConnection>
-  <tag>MyWebApp-1.0.0</tag>
+  <tag>HEAD</tag>
   </scm>
 
 
